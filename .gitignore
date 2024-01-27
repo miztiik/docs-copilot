@@ -171,5 +171,6 @@ non_public_resources/
 # Miztiik Automation: Customizations
 ssh_keys
 dist
+models_cache/
 
 
